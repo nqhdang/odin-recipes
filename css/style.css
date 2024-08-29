@@ -1,0 +1,21 @@
+body {
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.card {
+    border: 5px;
+    border-color: black;
+
+    text-align: center;
+    width: 400px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    font-size: 16px;
+}
